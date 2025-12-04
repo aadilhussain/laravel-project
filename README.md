@@ -1,2 +1,2 @@
 # laravel-project
-Laravel-Project
+Smart Expense Tracker with Currency Conversion API
